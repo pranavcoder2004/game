@@ -7,7 +7,7 @@ int comp;
 void user(){
 	Scanner s=new Scanner(System.in);
 	System.out.println("inter no");
-    	userin=s.nextInt()
+    	userin=s.nextInt();
 	 
 
 }
